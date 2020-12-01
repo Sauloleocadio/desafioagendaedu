@@ -1,8 +1,8 @@
 <h1 align="center">
 <br>
-  <img src="https://imgur.com/a/oDQwwW2.png" alt="Tela_inicial_desafioagendaedu" width="120">
-  <img src="https://imgur.com/a/MWqqRYP.png" alt="Tela_detalhes_desafioagendaedu" width="120">
-  <img src="https://imgur.com/a/8Pm49Sp.png" alt="Tela_pesquisa_desafioagendaedu" width="120">
+  <img src="https://imgur.com/a/oDQwwW2.png" alt="Tela_inicial_desafioagendaedu" width="120" height="340">
+  <img src="https://imgur.com/a/MWqqRYP.png" alt="Tela_detalhes_desafioagendaedu" width="120" height="340">
+  <img src="https://imgur.com/a/8Pm49Sp.png" alt="Tela_pesquisa_desafioagendaedu" width="120"height="340">
 <br>
 <br>
 Desafio Agenda Edu!
