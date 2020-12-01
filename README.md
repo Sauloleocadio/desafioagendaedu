@@ -29,9 +29,9 @@ Desafio Agenda Edu!
  <h3  align="center">
  1º - Git clone nesse repositório. https://github.com/Sauloleocadio/desafioagendaedu
  <br>
- 2º - Acessa pasta do repositório e executa "yarn" pra instalar as dependências.
+ 2º - Acessar pasta do repositório e executar "yarn" pra instalar as dependências.
  <br>
- 3º - A chave usada no código não está sendo visualiza no aplicativo pois ela é de uso pessoal, faça sua propria chave acessando <a href="https://www.themoviedb.org/documentation/api" target="_blank" >Aqui</a> crie um arquivo na pasta do repositório chamado ".env" <a href="https://github.com/goatandsheep/react-native-dotenv" target="_blank" >BIBLIOTECA USADA!</a>, depois coloque as informações da sua chave em variáveis de ambiente "API_KEY, API_URL".
+ 3º - A chave usada no código não está sendo visualizada no aplicativo pois ela é de uso pessoal, faça sua propria chave acessando <a href="https://www.themoviedb.org/documentation/api" target="_blank" >Aqui</a> crie um arquivo na pasta do repositório chamado ".env" <a href="https://github.com/goatandsheep/react-native-dotenv" target="_blank" >BIBLIOTECA USADA!</a>, depois coloque as informações da sua chave em variáveis de ambiente "API_KEY, API_URL".
  <br>
  4º - Agora só rodar o app, agradeço um <a href="https://api.whatsapp.com/send/?phone=558599111039" target="_blank" >FEEDBACK!</a>
  </h3>
