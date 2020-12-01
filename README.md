@@ -46,3 +46,10 @@ O APP foi feito utilizando:
 - **JAVASCRIPT**
 - **REACT-NATIVE**
 - **STYLED-COMPONENTS**
+
+<h2 align="center">
+<br>
+  <a href="https://dribbble.com/shots/7067508-Movie/attachments/68660?mode=media" target="_blank">App baseado nessa Ui do site dribbble!</a>
+<br>
+
+</h2>
