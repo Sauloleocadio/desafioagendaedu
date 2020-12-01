@@ -1,7 +1,9 @@
 <h1 align="center">
 <br>
 <a href="https://imgur.com/a/oDQwwW2.jpeg" target="_blank">Tela Inicial</a>
+<br>
 <a href="https://imgur.com/a/MWqqRYP.png" target="_blank">Tela Detalhes</a>
+<br>
 <a href="https://imgur.com/a/8Pm49Sp.png" target="_blank">Tela Pesquisa</a>
 <br>
 <br>
