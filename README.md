@@ -5,7 +5,8 @@ Desafio Agenda Edu!
 
 </h1>
 
-<h2 align="center"><a href="https://www.youtube.com/watch?v=dqtgX4uq3z0" target="_blank">Visualizar video do aplicativo</a></h2>
+<h2 align="center">
+<a href="https://www.youtube.com/watch?v=dqtgX4uq3z0" target="_blank">Visualizar video do aplicativo</a>
 <br>
 <a href="https://imgur.com/a/oDQwwW2.jpeg" target="_blank">Tela Inicial</a>
 <br>
@@ -14,6 +15,7 @@ Desafio Agenda Edu!
 <a href="https://imgur.com/a/8Pm49Sp.png" target="_blank">Tela Pesquisa</a>
 <br>
 <br>
+</h2>
 
 <p align="center">
  Esse aplicativo foi feito em torno de um desafio da empresa <a href="https://agendaedu.com/" target="_blank" >Agenda Edu</a> DESAFIO: <a href="https://github.com/agendakids/desafio-frontend-web/" target="_blank" >Clique aqui!</a> 
