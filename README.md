@@ -1,13 +1,8 @@
-![img](https://imgur.com/a/oDQwwW2.jpeg")
-![img](https://imgur.com/a/MWqqRYP.jpeg")
-![img](https://imgur.com/a/8Pm49Sp.jpeg")
-![img](http://i.imgur.com/yourfilename.png)
-
 <h1 align="center">
 <br>
-  <!-- <img src="https://imgur.com/a/oDQwwW2.jpeg" alt="Tela_inicial_desafioagendaedu" width="120" height="340"> -->
-  <!-- <img src="https://imgur.com/a/MWqqRYP.png" alt="Tela_detalhes_desafioagendaedu" width="120" height="340">
-  <img src="https://imgur.com/a/8Pm49Sp.png" alt="Tela_pesquisa_desafioagendaedu" width="120"height="340"> -->
+<a href="https://imgur.com/a/oDQwwW2.jpeg" target="_blank">Tela Inicial</a>
+<a href="https://imgur.com/a/MWqqRYP.png" target="_blank">Tela Detalhes</a>
+<a href="https://imgur.com/a/8Pm49Sp.png" target="_blank">Tela Pesquisa</a>
 <br>
 <br>
 Desafio Agenda Edu!
